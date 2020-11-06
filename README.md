@@ -1,8 +1,7 @@
-# Example app with [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+# React Nextjs grocery store front
 
-This example features how to use [chakra-ui](https://github.com/chakra-ui/chakra-ui) as the component library within a Next.js app.
+## Demo [tech-grocery](https://techgrocery.vercel.app/)
 
-We are connecting the Next.js `_app.js` with `chakra-ui`'s Theme and ColorMode containers so the pages can have app-wide dark/light mode. We are also creating some components which shows the usage of `chakra-ui`'s style props.
 
 ## Deploy your own
 
