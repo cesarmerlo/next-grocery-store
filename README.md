@@ -1,10 +1,21 @@
 # React Nextjs grocery store front
+Next.js - React demo store to receive orders via whatsapp api
 
-## Demo [tech-grocery](https://techgrocery.vercel.app/)
+[Live Demo](https://techgrocery.vercel.app/)
 
-## How to use
 
+## Installation
+Clone or download repo and install dependencies
 ```bash
 npm install
 npm run dev
+```
 
+## Usage
+
+```bash
+npm run dev
+```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
