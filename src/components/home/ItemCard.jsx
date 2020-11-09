@@ -26,7 +26,7 @@ export default function ItemCard({ item }) {
     } else if (counter === 0 && isAdded === "added") {
       toast({
         position: "bottom-left",
-        title: "Item Remove to Cart.",
+        title: "Item Removed to Cart.",
         status: "error",
         duration: 1500,
       });
